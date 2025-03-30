@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "nombre": "Juan",
+    "apellidos": "Pérez",
+    "cargo": "Desarrollador",
+    "estado": true
+  },
+  {
+    "id": 2,
+    "nombre": "Ana",
+    "apellidos": "Gómez",
+    "cargo": "Diseñadora",
+    "estado": true
+  },
+  {
+    "id": 3,
+    "nombre": "Carlos",
+    "apellidos": "Ruiz",
+    "cargo": "Gerente",
+    "estado": false
+  },
+  {
+    "id": 4,
+    "nombre": "María",
+    "apellidos": "López",
+    "cargo": "QA",
+    "estado": true
+  },
+  {
+    "id": 5,
+    "nombre": "Luis",
+    "apellidos": "Martínez",
+    "cargo": "Analista",
+    "estado": false
+  },
+  {
+    "id": 6,
+    "nombre": "Laura",
+    "apellidos": "Fernández",
+    "cargo": "Desarrolladora",
+    "estado": true
+  },
+  {
+    "id": 7,
+    "nombre": "Pedro",
+    "apellidos": "Sánchez",
+    "cargo": "Diseñador",
+    "estado": false
+  },
+  {
+    "id": 8,
+    "nombre": "Sofía",
+    "apellidos": "Torres",
+    "cargo": "Gerente",
+    "estado": true
+  },
+  {
+    "id": 9,
+    "nombre": "Diego",
+    "apellidos": "Morales",
+    "cargo": "QA",
+    "estado": false
+  },
+  {
+    "id": 10,
+    "nombre": "Valentina",
+    "apellidos": "Castro",
+    "cargo": "Analista",
+    "estado": true
+  }
+]
