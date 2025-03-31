@@ -1,12 +1,21 @@
-# React + Vite
+# Ejercicio React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+El proyecto muestra un gestor de empleados utilizando React
 
-Currently, two official plugins are available:
+## Stack
+Se ha utilizado el siguiente stack para el proyecto:
+- React + Vite
+- CSS
+- Git
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# Instrucciones
+1. Clonar el repositorio
+2. Instalar las dependencias
+```bash
+npm install
+```
+3. Iniciar el servidor de desarrollo
+```bash
+npm run dev
+```
+4. Abrir el navegador y acceder a `http://localhost:4000/`
